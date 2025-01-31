@@ -1,0 +1,10 @@
+-------- Passenger Information --------
+Name: Mahir
+Mobile: 0123456789
+Type: Business
+Seat: 2 seat(2k)
+Time: (9AM-10AM)
+Plane route: (Dhaka to Chittagong)
+D/M/YYYY: 13/July/2023
+Current Home address: Barisal
+-----------------------------------

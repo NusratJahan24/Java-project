@@ -1,0 +1,14 @@
+Airplane Name: Boeing
+Departure Time: 10:00am
+From: Dhaka
+To: Dubai
+Date: 18/5/2024
+Max Passengers: 40
+
+Airplane Name: Boeing 787
+Departure Time: 12:00pm
+From: Sylhet
+To: Chittagong
+Date: 12/05/2024
+Max Passengers: 35
+
